@@ -34,7 +34,7 @@ At this point the setup should look like this :
 [Photo of the software and the files]
 
 2. Now the real game begin, the dump need to be patched with a special tool found in the Band cap forum (all the credit go to these guys) THIS IS THE MAGICAL LINK WHERE ALL THE WITCHCRAFT HAPPEN : [https://badcaps.net/forum/showthread.php?t=87588](https://badcaps.net/forum/showthread.php?t=87588)
-From what I have understood, the tool modify some region of data, notably the DXE drivers and replace it with a custom one made to exploit some vulnerability to trick the BIOS into thinking it's brand new and erase the password stored in the TPM security chip . (I will try to understand and explain it better when I will update the README).
+From what I have understood, the tool modify some data region of the firmware, notably the DXE drivers and replace them with a custom one made to exploit some vulnerability to trick the BIOS into thinking it's brand new and erase the password stored in the TPM security chip . (I will try to understand and explain it better when I will update the README).
 Anyway, I've ran the tool accordingly to the steps described in the link above and applied the patch. Then I checked that the patch had made modification to the data by comparing the patched bios with the old one using WinMerge
 
 1. After that, using AsProgrammer I've erased the bios and writted the patched one.
