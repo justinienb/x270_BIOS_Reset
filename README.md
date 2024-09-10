@@ -5,14 +5,14 @@ A lot of the setup is well described in this link : [https://winraid.level1techs
 
 1. The first step was to buy the CH341A programmer in order to access the memory of the BIOS chip, and modding the programmer in order to get an output of 3.3v from the data line instead of the 5v that it was outputting.
 
-![PHOTO OF DATALINE VOLTAGE](https://raw.githubusercontent.com/Tictactouc/x270_BIOS_Reset/master/Doc/photos/IMG_3240.jpeg | width=200)
+![PHOTO OF DATALINE VOLTAGE](https://raw.githubusercontent.com/Tictactouc/x270_BIOS_Reset/master/Doc/photos/IMG_3240.jpeg width="200")
 
 Apparently it was caused by a conception defect prior to the v1.6 of the programmer. 
 Also from what I've understood this defect is not a big deal because the current is very very low and it is very unlikely to fry the chip with this defect. 
 Anyway, I really didn't want to broke the bios chip and loose the Laptop so I did the mod (also, it was a good way of exercizing my electronics skills).
 A good ressource about this mod is well described here : [https://www.youtube.com/watch?v=HwnzzF645hA](https://www.youtube.com/watch?v=HwnzzF645hA)
 
-![PHOTO of the programmer and the mod](https://raw.githubusercontent.com/Tictactouc/x270_BIOS_Reset/master/Doc/photos/IMG_3250.jpeg | width=200)
+![PHOTO of the programmer and the mod](https://raw.githubusercontent.com/Tictactouc/x270_BIOS_Reset/master/Doc/photos/IMG_3250.jpeg width="200")
 
 
 3. The next step was to download and install the software "AsProgrammer" here : [https://www.onetransistor.eu/2018/11/use-ch341a-with-asprogrammer-on-windows.html](https://www.onetransistor.eu/2018/11/use-ch341a-with-asprogrammer-on-windows.html)
@@ -28,7 +28,7 @@ A good ressource about this mod is well described here : [https://www.youtube.co
 
 
 At this point the setup should look like this :
-![20231111_190101](https://github.com/Tictactouc/x270_BIOS_Reset/assets/63233669/7479412d-8792-4a1b-9f1e-b559a1c869f9 | width=200)
+![20231111_190101](https://github.com/Tictactouc/x270_BIOS_Reset/assets/63233669/7479412d-8792-4a1b-9f1e-b559a1c869f9 width="200")
 
 ### Dumping and patching the BIOS EEPROM data
 
