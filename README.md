@@ -28,6 +28,7 @@ A good ressource about this mod is well described here : [https://www.youtube.co
 
 
 At this point the setup should look like this :
+
 <img src="https://github.com/Tictactouc/x270_BIOS_Reset/assets/63233669/7479412d-8792-4a1b-9f1e-b559a1c869f9" width="200">
 
 ### Dumping and patching the BIOS EEPROM data
