@@ -12,7 +12,7 @@ Also from what I've understood this defect is not a big deal because the current
 Anyway, I really didn't want to broke the bios chip and loose the Laptop so I did the mod (also, it was a good way of exercizing my electronics skills).
 A good ressource about this mod is well described here : [https://www.youtube.com/watch?v=HwnzzF645hA](https://www.youtube.com/watch?v=HwnzzF645hA)
 
-<img src="https://raw.githubusercontent.com/Tictactouc/x270_BIOS_Reset/master/Doc/photos/IMG_3250.jpeg" width="200">
+<img src="https://raw.githubusercontent.com/Tictactouc/x270_BIOS_Reset/master/Doc/photos/IMG_3250.jpeg" width="300">
 
 
 3. The next step was to download and install the software "AsProgrammer" here : [https://www.onetransistor.eu/2018/11/use-ch341a-with-asprogrammer-on-windows.html](https://www.onetransistor.eu/2018/11/use-ch341a-with-asprogrammer-on-windows.html)
@@ -29,7 +29,7 @@ A good ressource about this mod is well described here : [https://www.youtube.co
 
 At this point the setup should look like this :
 
-<img src="https://github.com/Tictactouc/x270_BIOS_Reset/assets/63233669/7479412d-8792-4a1b-9f1e-b559a1c869f9" width="200">
+<img src="https://github.com/Tictactouc/x270_BIOS_Reset/assets/63233669/7479412d-8792-4a1b-9f1e-b559a1c869f9" width="500">
 
 ### Dumping and patching the BIOS EEPROM data
 
