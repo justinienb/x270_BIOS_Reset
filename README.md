@@ -9,7 +9,7 @@ Also from what I've understood this defect is not a big deal because the current
 Anyway, I really didn't want to broke the bios chip and loose the Laptop so I did the mod (also, it was a good way of exercizing my electronics skills).
 A good ressource about this mod is well described here : [https://www.youtube.com/watch?v=HwnzzF645hA](https://www.youtube.com/watch?v=HwnzzF645hA)
 
-[PHOTO of the programmer and the mod]
+![PHOTO of the programmer and the mod](https://github.com/Tictactouc/x270_BIOS_Reset/Doc/photos/IMG_3250.jpeg)
 
 
 3. The next step was to download and install the software "AsProgrammer" here : [https://www.onetransistor.eu/2018/11/use-ch341a-with-asprogrammer-on-windows.html](https://www.onetransistor.eu/2018/11/use-ch341a-with-asprogrammer-on-windows.html)
