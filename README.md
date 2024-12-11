@@ -21,12 +21,6 @@ A good ressource about this mod is well described here : [https://www.youtube.co
 
 5. The last step for completing the setup is to locate the chip (which is a Winbond W25Q128FV) under the black plastic; right next to the CPU and to connect the clip to it (be careful with the orientation).
 
-[PHOTO OF THE CHIP]
-
-[PHOTO of the clip]
-
-
-
 At this point the setup should look like this :
 
 <img src="https://github.com/Tictactouc/x270_BIOS_Reset/assets/63233669/7479412d-8792-4a1b-9f1e-b559a1c869f9" width="500">
